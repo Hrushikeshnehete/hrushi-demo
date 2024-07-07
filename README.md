@@ -1,4 +1,4 @@
 # hrushi-demo
-this my first git repository.................
+
 <br>
-author:- Hrushikesh nehete
+this my first practice project. it is a snake game that i created by using c++ language.
